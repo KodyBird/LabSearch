@@ -1,0 +1,756 @@
+<!doctype html>
+<html>
+ <head> 
+  <meta charset="utf-8"> 
+  <meta name="viewport" content="width=device-width"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="format-detection" content="telephone=no"> 
+  <title>  研究室・教員一覧｜情報学研究科の紹介｜京都大学大学院情報学研究科</title> 
+  <link rel="stylesheet" type="text/css" href="/wp-content/themes/i_kyoto-u_ac_jp/style.css?20150925"> 
+  <link rel="stylesheet" type="text/css" href="/wp-content/themes/i_kyoto-u_ac_jp/css/slidebars.css"> 
+  <link rel="stylesheet" type="text/css" href="/wp-content/themes/i_kyoto-u_ac_jp/top.css"> 
+  <link rel="stylesheet" type="text/css" href="/wp-content/themes/i_kyoto-u_ac_jp/style-s.css" media="only screen and (max-width:767px)"> 
+  <script type="text/javascript" src="/wp-content/themes/i_kyoto-u_ac_jp/js/jquery-1.11.0.min.js"></script> 
+  <script type="text/javascript" src="/wp-content/themes/i_kyoto-u_ac_jp/js/common.js"></script> 
+  <!--[if lte IE 8]><script src="/wp-content/themes/i_kyoto-u_ac_jp/js/html5shiv.js"></script><![endif]--> 
+  <link rel="alternate" hreflang="ja" href="/introduction/labs.html/"> 
+  <link rel="alternate" hreflang="en-US" href="/en/introduction/labs.html/"> 
+  <link rel="dns-prefetch" href="//s.w.org"> 
+  <link rel="alternate" type="application/rss+xml" title="京都大学大学院情報学研究科 » 研究室・教員一覧 のコメントのフィード" href="/introduction/labs.html/feed/"> 
+  <script type="text/javascript">
+		window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.i.kyoto-u.ac.jp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7"}};
+					  !function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+					  			    </script> 
+  <style type="text/css">
+img.wp-smiley,
+img.emoji {
+	  display: inline !important;
+	  border: none !important;
+	  box-shadow: none !important;
+	  height: 1em !important;
+	  width: 1em !important;
+	  margin: 0 .07em !important;
+	  vertical-align: -0.1em !important;
+	  background: none !important;
+	  padding: 0 !important;
+}
+</style> 
+  <link rel="stylesheet" id="wpml-legacy-horizontal-list-0-css" href="/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.css?ver=1" type="text/css" media="all"> 
+  <style id="wpml-legacy-horizontal-list-0-inline-css" type="text/css">
+.wpml-ls-statics-shortcode_actions, .wpml-ls-statics-shortcode_actions .wpml-ls-sub-menu, .wpml-ls-statics-shortcode_actions a {border-color:#cdcdcd;}.wpml-ls-statics-shortcode_actions a {color:#444444;background-color:#ffffff;}.wpml-ls-statics-shortcode_actions a:hover,.wpml-ls-statics-shortcode_actions a:focus {color:#000000;background-color:#eeeeee;}.wpml-ls-statics-shortcode_actions .wpml-ls-current-language>a {color:#444444;background-color:#ffffff;}.wpml-ls-statics-shortcode_actions .wpml-ls-current-language:hover>a, .wpml-ls-statics-shortcode_actions .wpml-ls-current-language>a:focus {color:#000000;background-color:#eeeeee;}
+.wpml-ls-legacy-list-horizontal { border: none; height:32px; padding: 0; clear: none; } .wpml-ls-legacy-list-horizontal a { display: inline-block; text-decoration: none; padding: 0; line-height: 1.6; }
+</style> 
+  <link rel="stylesheet" id="wp-pagenavi-css" href="/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all"> 
+  <link rel="https://api.w.org/" href="/wp-json/"> 
+  <link rel="canonical" href="/introduction/labs.html/"> 
+  <link rel="shortlink" href="/?p=8"> 
+  <link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.i.kyoto-u.ac.jp%2Fintroduction%2Flabs.html%2F"> 
+  <link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.i.kyoto-u.ac.jp%2Fintroduction%2Flabs.html%2F&amp;format=xml"> 
+  <meta name="generator" content="WPML ver:3.6.1 stt:66,67,1,28,29;"> 
+ </head> 
+ <body id="archive" class="introduction">
+  <div id="sb-site"> 
+   <div id="wrapper"> 
+    <div id="wrapperIn"> 
+     <div id="wrapperIn2"> 
+      <header id="header"> 
+       <div id="logoBox"> 
+        <h1><a href="http://www.i.kyoto-u.ac.jp"><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/logo.gif" alt="京都大学　大学院情報学研究科" width="407" height="60"></a></h1> 
+        <a href="http://www.kyoto-u.ac.jp/ja"><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/logo-kyoto-u.gif" alt="京都大学" class="logoUniv"></a> 
+       </div>
+       <!-- //.logoBox_end --> 
+       <div id="mobile-header"> 
+        <a id="responsive-menu-button" href="#sidr-main"><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/ico-menu.png" alt="menu" class="sb-toggle-right"></a> 
+       </div>
+       <!-- //#mobile-header_end --> 
+       <div class="menu_under"> 
+        <div class="lang_sel_list_horizontal wpml-ls-statics-shortcode_actions wpml-ls wpml-ls-touch-device wpml-ls-legacy-list-horizontal" id="lang_sel_list"> 
+         <ul>
+          <li class="icl-ja wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-ja wpml-ls-current-language wpml-ls-first-item wpml-ls-item-legacy-list-horizontal"> <a href="/introduction/labs.html/" class="lang_sel_sel"><span class="wpml-ls-native icl_lang_sel_native">日本語</span></a> </li>
+          <li class="icl-en wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-en wpml-ls-item-legacy-list-horizontal"> <a href="/en/introduction/labs.html/" class="lang_sel_other"><span class="wpml-ls-native icl_lang_sel_native">English</span></a> </li>
+          <li class="icl-sc wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-sc wpml-ls-item-legacy-list-horizontal"> <a href="/sc/" class="lang_sel_other"><span class="wpml-ls-native icl_lang_sel_native">简体中文</span></a> </li>
+          <li class="icl-tc wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-tc wpml-ls-item-legacy-list-horizontal"> <a href="/tc/" class="lang_sel_other"><span class="wpml-ls-native icl_lang_sel_native">繁体中文</span></a> </li>
+          <li class="icl-ko wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-ko wpml-ls-last-item wpml-ls-item-legacy-list-horizontal"> <a href="/ko/" class="lang_sel_other"><span class="wpml-ls-native icl_lang_sel_native">한국어</span></a> </li>
+         </ul> 
+        </div> 
+        <ul class="headerNav"> 
+         <li><a href="/school.html" target="_blank">学生教職員（学内限定）</a></li> 
+         <li><a href="/certificate.html">証明書発行について</a></li> 
+         <li><a href="/access.html">アクセス</a></li> 
+        </ul> 
+       </div> 
+      </header>
+      <!-- //#header_end --> 
+      <nav id="breadCrumbs"> 
+       <ol> 
+        <li><a href="http://www.i.kyoto-u.ac.jp">HOME</a><span>&gt;</span></li> 
+        <li><a href="/introduction.html/">情報学研究科の紹介</a><span>&gt;</span></li>
+        <li>研究室・教員一覧</li> 
+       </ol> 
+      </nav> 
+      <article id="main"> 
+       <h2>研究室・教員一覧 </h2> 
+       <p><a href="#ist">知能情報学専攻</a> | <a href="#soc">社会情報学専攻</a> | <a href="#acs">複雑系科学専攻</a> | <a href="#amp">数理工学専攻</a> | <a href="#sys">システム科学専攻</a> | <a href="#cce">通信情報システム専攻</a></p> 
+       <section> 
+        <h3 class="h3-labsCat" id="ist">知能情報学専攻</h3> 
+        <div class="labsBox"> 
+         <h4> 脳認知科学講座 脳情報学分野 <a href="http://www.cns.atr.jp/dni/member/kamitani_j/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/ist_01.html" target="_blank">研究紹介</a></span><a href="/introduction/ist_01.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=uQ0yM" alt="神谷 之康 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/uQ0yM" target="_blank">神谷 之康</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=dZ0tP" alt="細川 浩 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/dZ0tP" target="_blank">細川 浩</a> <span class="jobTitle">講師</span></p></li> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=dO4jF" alt="前川 真吾 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/dO4jF" target="_blank">前川 真吾</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 脳認知科学講座 心理情報学分野 <a href="http://www.genome.ist.i.kyoto-u.ac.jp/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/ist_09.html" target="_blank">研究紹介</a></span><a href="/introduction/ist_09.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/qO7mI" target="_blank">熊田 孝恒</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=eP8sU" alt="辻本 悟史 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/eP8sU" target="_blank">辻本 悟史</a> <span class="jobTitle">准教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=pO4vT" alt="市瀬 夏洋 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/pO4vT" target="_blank">市瀬 夏洋</a> <span class="jobTitle">助教</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=tC7yS" alt="LIANG, Xuefeng " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/tC7yS" target="_blank">LIANG, Xuefeng</a> <span class="jobTitle">特定准教授</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 脳認知科学講座 認知コミュニケーション分野 <a href="http://www.cog.ist.i.kyoto-u.ac.jp/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/ist_02.html" target="_blank">研究紹介</a></span><a href="/introduction/ist_02.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=rD2tO" alt="水原 啓暁 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/rD2tO" target="_blank">水原 啓暁</a> <span class="jobTitle">講師</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 脳認知科学講座 計算論的認知神経科学連携ユニット ［連携］ <a href="http://www.itn.brain.riken.jp/japanese/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a></h4> 
+         <ul> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p>中原 裕之 <span class="jobTitle">教授</span><br><span class="affiliation">（理化学研究所）</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 認知システム講座 知能計算分野 <a href="http://www.iip.ist.i.kyoto-u.ac.jp/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/ist_04.html" target="_blank">研究紹介</a></span><a href="/introduction/ist_04.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/bI2sV" target="_blank">山本章博</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=gD7iO" alt="CUTURI, Marco " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/gD7iO" target="_blank">CUTURI, Marco</a> <span class="jobTitle">准教授</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 認知システム講座 集合知システム分野 <a href="http://www.ml.ist.i.kyoto-u.ac.jp/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a></h4> 
+         <ul> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=sZ6uM" alt="鹿島久嗣 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/sZ6uM" target="_blank">鹿島久嗣</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=yH9hC" alt="馬場 雪乃 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/yH9hC" target="_blank">馬場 雪乃</a> <span class="jobTitle">特定助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 認知システム講座 会話情報学分野 <a href="http://www.ii.ist.i.kyoto-u.ac.jp/?lang=ja" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/ist_05.html" target="_blank">研究紹介</a></span><a href="/introduction/ist_05.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=nW9xC" alt="西田豊明 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/nW9xC" target="_blank">西田豊明</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=aT6cB" alt="中澤 篤志 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/aT6cB" target="_blank">中澤 篤志</a> <span class="jobTitle">准教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=jD0eQ" alt="大本 義正 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/jD0eQ" target="_blank">大本 義正</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 知能メディア講座 言語メディア分野 <a href="http://nlp.ist.i.kyoto-u.ac.jp/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/ist_06.html" target="_blank">研究紹介</a></span><a href="/introduction/ist_06.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=kK7tR" alt="黒橋 禎夫 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/kK7tR" target="_blank">黒橋 禎夫</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=qG3nW" alt="河原 大輔 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/qG3nW" target="_blank">河原 大輔</a> <span class="jobTitle">准教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=hF9lK" alt="柴田 知秀 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/hF9lK" target="_blank">柴田 知秀</a> <span class="jobTitle">特定講師</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 知能メディア講座 音声メディア分野 <a href="http://sap.ist.i.kyoto-u.ac.jp/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/ist_07.html" target="_blank">研究紹介</a></span><a href="/introduction/ist_07.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=pV3pT" alt="河原 達也 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/pV3pT" target="_blank">河原 達也</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=mJ4vJ" alt="吉井 和佳 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/mJ4vJ" target="_blank">吉井 和佳</a> <span class="jobTitle">講師</span></p></li> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=vO0kK" alt="糸山 克寿 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/vO0kK" target="_blank">糸山 克寿</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 知能メディア講座 画像メディア分野 <a href="http://vision.kuee.kyoto-u.ac.jp/japanese/index.html" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/ist_08.html" target="_blank">研究紹介</a></span><a href="/introduction/ist_08.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/xL4cY" target="_blank">松山 隆司</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=gK7pX" alt="川嶋 宏彰 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/gK7pX" target="_blank">川嶋 宏彰</a> <span class="jobTitle">准教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=eF8uD" alt="延原 章平 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/eF8uD" target="_blank">延原 章平</a> <span class="jobTitle">講師</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> メディア応用講座 映像メディア分野 <a href="http://www.mm.media.kyoto-u.ac.jp/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/ist_10.html" target="_blank">研究紹介</a></span><a href="/introduction/ist_10.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=fZ1tO" alt="美濃 導彦 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/fZ1tO" target="_blank">美濃 導彦</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=vW8hO" alt="飯山 将晃 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/vW8hO" target="_blank">飯山 将晃</a> <span class="jobTitle">准教授</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> メディア応用講座 ネットワークメディア分野 <a href="http://www.net.ist.i.kyoto-u.ac.jp/ja/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/ist_11.html" target="_blank">研究紹介</a></span><a href="/introduction/ist_11.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=iZ7lR" alt="岡部 寿男 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/iZ7lR" target="_blank">岡部 寿男</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=gT5fP" alt="宮崎 修一 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/gT5fP" target="_blank">宮崎 修一</a> <span class="jobTitle">准教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=pF8vD" alt="小谷 大祐 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/pF8vD" target="_blank">小谷 大祐</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> メディア応用講座 メディアアーカイブ分野 <a href="http://plata.ar.media.kyoto-u.ac.jp/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/ist_12.html" target="_blank">研究紹介</a></span><a href="/introduction/ist_12.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=xO7eM" alt="森 信介 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/xO7eM" target="_blank">森 信介</a> <span class="jobTitle">准教授</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 生命システム情報学講座 バイオ情報ネットワーク分野 <a href="http://www.bic.kyoto-u.ac.jp/takutsu/index_J.html" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/ist_13.html" target="_blank">研究紹介</a></span><a href="/introduction/ist_13.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=gG6zQ" alt="阿久津 達也 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/gG6zQ" target="_blank">阿久津 達也</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=dC2eO" alt="林田 守広 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/dC2eO" target="_blank">林田 守広</a> <span class="jobTitle">助教</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=cC7oO" alt="田村 武幸 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/cC7oO" target="_blank">田村 武幸</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> エネルギーの情報化共同研究 講座 エネルギーの情報化 分野 <a href="http://i-energy.ist.i.kyoto-u.ac.jp/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a></h4> 
+         <ul> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=gW3gH" alt="加藤 丈和 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/gW3gH" target="_blank">加藤 丈和</a> <span class="jobTitle">特定准教授</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/vW7xE" target="_blank">JAVAID, Saher</a> <span class="jobTitle">特定助教</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/cF8rA" target="_blank">ERSCHAE, Rodrigo</a> <span class="jobTitle">特定助教</span></p></li> 
+         </ul> 
+        </div> 
+       </section> 
+       <p><a href="#ist">知能情報学専攻</a> | <a href="#soc">社会情報学専攻</a> | <a href="#acs">複雑系科学専攻</a> | <a href="#amp">数理工学専攻</a> | <a href="#sys">システム科学専攻</a> | <a href="#cce">通信情報システム専攻</a></p> 
+       <section> 
+        <h3 class="h3-labsCat" id="soc">社会情報学専攻</h3> 
+        <div class="labsBox"> 
+         <h4> 社会情報モデル講座 分散情報システム分野 <a href="https://www.db.soc.i.kyoto-u.ac.jp/doku.php" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/soc_01.html" target="_blank">研究紹介</a></span><a href="/introduction/soc_01.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=wH9wY" alt="吉川 正俊 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/wH9wY" target="_blank">吉川 正俊</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=zG6nS" alt="馬 強 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/zG6nS" target="_blank">馬 強</a> <span class="jobTitle">准教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=fJ3xK" alt="清水 敏之 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/fJ3xK" target="_blank">清水 敏之</a> <span class="jobTitle">助教</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=wA3vS" alt="浅野 泰仁 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/wA3vS" target="_blank">浅野 泰仁</a> <span class="jobTitle">特定准教授</span><br><span class="affiliation">（高度情報教育基盤コア）</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 社会情報モデル講座 情報図書館学分野 <a href="http://www.dl.kuis.kyoto-u.ac.jp/wordpress/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/soc_02.html" target="_blank">研究紹介</a></span><a href="/introduction/soc_02.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=wY6yQ" alt="田中 克己 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/wY6yQ" target="_blank">田中 克己</a> <span class="jobTitle">教授</span><br><span class="affiliation">（高度情報教育基盤コア）</span></p></li> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=zF3aW" alt="田島 敬史 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/zF3aW" target="_blank">田島 敬史</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/kD1bI" target="_blank">山本 岳洋</a> <span class="jobTitle">助教</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=wY3bK" alt="JATOWT, Adam " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/wY3bK" target="_blank">JATOWT, Adam</a> <span class="jobTitle">特定准教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=zT3qF" alt="大島 裕明 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/zT3qF" target="_blank">大島 裕明</a> <span class="jobTitle">特定准教授</span><br><span class="affiliation">（高度情報教育基盤コア）</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=oB4eI" alt="加藤 誠 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/oB4eI" target="_blank">加藤 誠</a> <span class="jobTitle">特定助教</span><br><span class="affiliation">（高度情報教育基盤コア）</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 社会情報モデル講座 情報社会論分野 ［連携］ </h4> 
+         <ul> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="http://www.astem.or.jp/about/researcher/yamada" target="_blank">山田 篤</a> <span class="jobTitle">客員准教授</span><br><span class="affiliation">（ASTEM）</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="http://research-db.ritsumei.ac.jp/Profiles/28/0002737/profile.html" target="_blank">宮脇 正晴</a> <span class="jobTitle">連携教員</span><br><span class="affiliation">（ASTEM, 立命館大学）</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="http://www.ird-pat.com/attorney.html" target="_blank">谷川 英和</a> <span class="jobTitle">連携教員</span><br><span class="affiliation">（ASTEM, IRD国際特許事務所）</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 社会情報ネットワーク講座 広域情報ネットワーク分野 <a href="http://www.ai.soc.i.kyoto-u.ac.jp/index_j.html" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/soc_05.html" target="_blank">研究紹介</a></span><a href="/introduction/soc_05.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=qK5zW" alt="石田 亨 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/qK5zW" target="_blank">石田 亨</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=yU9jT" alt="松原 繁夫 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/yU9jT" target="_blank">松原 繁夫</a> <span class="jobTitle">准教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=oK6aA" alt="林 冬惠 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/oK6aA" target="_blank">林 冬惠</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 社会情報ネットワーク講座 情報セキュリティ分野 ［連携］ <a href="http://www.ai.soc.i.kyoto-u.ac.jp/renkei/security/public_html/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a></h4> 
+         <ul> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p>岡本 龍明 <span class="jobTitle">客員教授</span><br><span class="affiliation">（NTT）</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p>阿部 正幸 <span class="jobTitle">客員准教授</span><br><span class="affiliation">（NTT）</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 社会情報ネットワーク講座 市場・組織情報論分野［連携］ <a href="http://www.mois.asia/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a></h4> 
+         <ul> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="http://yokozawa.mois.asia/" target="_blank">横澤 誠</a> <span class="jobTitle">客員教授</span><br><span class="affiliation">（野村総研）</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p>木下 貴史 <span class="jobTitle">客員准教授</span><br><span class="affiliation">（野村総研）</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 生物圏情報学講座 生物資源情報学分野 <a href="http://bre.soc.i.kyoto-u.ac.jp/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/soc_08.html" target="_blank">研究紹介</a></span><a href="/introduction/soc_08.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/lT7wH" target="_blank">守屋 和幸</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=dC2vP" alt="三田村 啓理 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/dC2vP" target="_blank">三田村 啓理</a> <span class="jobTitle">准教授</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/zJ8tZ" target="_blank">西澤 秀明</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 生物圏情報学講座 生物環境情報学分野 <a href="http://bre.soc.i.kyoto-u.ac.jp/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/soc_08.html" target="_blank">研究紹介</a></span><a href="/introduction/soc_08.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=nS7qR" alt="大手 信人 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/nS7qR" target="_blank">大手 信人</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=pA7xQ" alt="小山 里奈 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/pA7xQ" target="_blank">小山 里奈</a> <span class="jobTitle">准教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=pN1tF" alt="VINCENOT, Christian " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/pN1tF" target="_blank">VINCENOT, Christian</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 地域・防災情報システム学講座 総合防災システム分野 <a href="http://imdr.dpri.kyoto-u.ac.jp/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/soc_10.html" target="_blank">研究紹介</a></span><a href="/introduction/soc_10.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=zC8cX" alt="多々納 裕一 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/zC8cX" target="_blank">多々納 裕一</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/yK7hS" target="_blank">Subhajyoti Samaddar</a> <span class="jobTitle">准教授</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 地域・防災情報システム学講座 巨大災害情報システム分野 <a href="http://www.drs.dpri.kyoto-u.ac.jp/staff/yamori/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/soc_11.html" target="_blank">研究紹介</a></span><a href="/introduction/soc_11.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=eP6qA" alt="矢守 克也 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/eP6qA" target="_blank">矢守 克也</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/mB2oN" target="_blank">大西 正光</a> <span class="jobTitle">准教授</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 地域・防災情報システム学講座 危機管理情報システム分野 <a href="http://www.drs.dpri.kyoto-u.ac.jp/hayashi/index.html" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/soc_12.html" target="_blank">研究紹介</a></span><a href="/introduction/soc_12.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=oT8rY" alt="畑山 満則 " style="width:100%;"><p>畑山 満則 <span class="jobTitle">教授</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 医療情報学講座 <a href="http://www.kuhp.kyoto-u.ac.jp/~mi/jp/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/soc_13.html" target="_blank">研究紹介</a></span><a href="/introduction/soc_13.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=zF1iZ" alt="黒田 知宏 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/zF1iZ" target="_blank">黒田 知宏</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/qG0kP" target="_blank">田村 寛</a> <span class="jobTitle">准教授</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/bX6bV" target="_blank">岡本 和也</a> <span class="jobTitle">講師</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p>平木 秀輔 <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 情報フルーエンシー教育講座 <span class="btn"><a href="/introduction/soc_14.html" target="_blank">研究紹介</a></span><a href="/introduction/soc_14.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=mW7oN" alt="喜多 一 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/mW7oN" target="_blank">喜多 一</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=xQ0qK" alt="上田 浩 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/xQ0qK" target="_blank">上田 浩</a> <span class="jobTitle">准教授</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/sS1kJ" target="_blank">森 幹彦</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+       </section> 
+       <p><a href="#ist">知能情報学専攻</a> | <a href="#soc">社会情報学専攻</a> | <a href="#acs">複雑系科学専攻</a> | <a href="#amp">数理工学専攻</a> | <a href="#sys">システム科学専攻</a> | <a href="#cce">通信情報システム専攻</a></p> 
+       <section> 
+        <h3 class="h3-labsCat" id="acs">複雑系科学専攻</h3> 
+        <div class="labsBox"> 
+         <h4> 応用解析学講座 非線型解析分野 逆問題解析分野 <a href="http://www-an.acs.i.kyoto-u.ac.jp/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a></h4> 
+         <ul> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/bQ8fE" target="_blank">磯 祐介</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/oB3rF" target="_blank">木上 淳</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/eC3cD" target="_blank">藤原 宏志</a> <span class="jobTitle">准教授</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/mA4gK" target="_blank">久保 雅義</a> <span class="jobTitle">講師</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/gL6zB" target="_blank">白石 大典</a> <span class="jobTitle">講師</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/gR4pG" target="_blank">陳 逸昆</a> <span class="jobTitle">特定講師</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 非線形物理学講座 流体力学・計算物理学グループ <a href="http://ndyn.acs.i.kyoto-u.ac.jp/main.html" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/acs_02.html" target="_blank">研究紹介</a></span><a href="/introduction/acs_02.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/iD6cW" target="_blank">船越 満明</a> <span class="jobTitle">教授</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 非線形物理学講座 理論神経科学・非平衡系数理グループ <a href="http://wwwfs.acs.i.kyoto-u.ac.jp/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/acs_03.html" target="_blank">研究紹介</a></span><a href="/introduction/acs_03.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/oX1kV" target="_blank">青柳 富誌生</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/mN5eH" target="_blank">宮崎 修次</a> <span class="jobTitle">講師</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/mV6sN" target="_blank">筒 広樹</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 応用数理学講座 計算力学分野 <a href="http://www-fcs.acs.i.kyoto-u.ac.jp/index.html" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/acs_04.html" target="_blank">研究紹介</a></span><a href="/introduction/acs_04.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/xC9tI" target="_blank">西村 直志</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/uZ6fQ" target="_blank">吉川 仁</a> <span class="jobTitle">准教授</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/qL7nT" target="_blank">新納 和樹</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 応用数理学講座 応用数理科学分野 <a href="http://www-ics.acs.i.kyoto-u.ac.jp/index.html" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/acs_05.html" target="_blank">研究紹介</a></span><a href="/introduction/acs_05.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=jL4uK" alt="原田 健自 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/jL4uK" target="_blank">原田 健自</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+       </section> 
+       <p><a href="#ist">知能情報学専攻</a> | <a href="#soc">社会情報学専攻</a> | <a href="#acs">複雑系科学専攻</a> | <a href="#amp">数理工学専攻</a> | <a href="#sys">システム科学専攻</a> | <a href="#cce">通信情報システム専攻</a></p> 
+       <section> 
+        <h3 class="h3-labsCat" id="amp">数理工学専攻</h3> 
+        <div class="labsBox"> 
+         <h4> 応用数学講座 数理解析分野 <a href="http://www-is.amp.i.kyoto-u.ac.jp/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/amp_01.html" target="_blank">研究紹介</a></span><a href="/introduction/amp_01.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=eP4dS" alt="中村 佳正 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/eP4dS" target="_blank">中村 佳正</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/lS5qP" target="_blank">辻本 諭</a> <span class="jobTitle">准教授</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/pN6qJ" target="_blank">上岡 修平</a> <span class="jobTitle">助教</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=qP3oI" alt="木村 欣司 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/qP3oI" target="_blank">木村 欣司</a> <span class="jobTitle">特定准教授</span><br><span class="affiliation">（高度情報教育基盤コア）</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=mY2wK" alt="關戸 啓人 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/mY2wK" target="_blank">關戸 啓人</a> <span class="jobTitle">特定助教</span><br><span class="affiliation">（高度情報教育基盤コア）</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 応用数学講座 離散数理分野 <a href="http://www-or.amp.i.kyoto-u.ac.jp/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/amp_02.html" target="_blank">研究紹介</a></span><a href="/introduction/amp_02.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/tV6cX" target="_blank">永持 仁</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=fP8bZ" alt="SHURBEVSKI, Aleksandar " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/fP8bZ" target="_blank">SHURBEVSKI, Aleksandar</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> システム数理講座 最適化数理分野 <a href="http://www-optima.amp.i.kyoto-u.ac.jp/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/amp_03.html" target="_blank">研究紹介</a></span><a href="/introduction/amp_03.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/cF8uW" target="_blank">山下 信雄</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=sI5dR" alt="福田 エレン 秀美 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/sI5dR" target="_blank">福田 エレン 秀美</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> システム数理講座 制御システム論分野 <a href="http://www.bode.amp.i.kyoto-u.ac.jp/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/amp_04.html" target="_blank">研究紹介</a></span><a href="/introduction/amp_04.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/eF4oD" target="_blank">太田 快人</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=lQ7aR" alt="加嶋 健司 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/lQ7aR" target="_blank">加嶋 健司</a> <span class="jobTitle">准教授</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/lF9oG" target="_blank">大木 健太郎</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> システム数理講座 応用数理モデル 分野 ［連携］ <a href="http://www.bode.amp.i.kyoto-u.ac.jp/amm/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a></h4> 
+         <ul> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p>山本 彰 <span class="jobTitle">教授</span><br><span class="affiliation">（日立製作所）</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p>福本 恭 <span class="jobTitle">准教授</span><br><span class="affiliation">（日立製作所）</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 数理物理学講座 物理統計学分野 <a href="http://chaosken.amp.i.kyoto-u.ac.jp/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/amp_05.html" target="_blank">研究紹介</a></span><a href="/introduction/amp_05.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=kQ0nI" alt="梅野 健 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/kQ0nI" target="_blank">梅野 健</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=cN0sA" alt="五十嵐 顕人 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/cN0sA" target="_blank">五十嵐 顕人</a> <span class="jobTitle">准教授</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/lF0dR" target="_blank">佐藤 彰洋</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 数理物理学講座 力学系数理 分野 <a href="http://yang.amp.i.kyoto-u.ac.jp/jp/index.html" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/amp_06.html" target="_blank">研究紹介</a></span><a href="/introduction/amp_06.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=zQ6pO" alt="矢ヶ崎 一幸 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/zQ6pO" target="_blank">矢ヶ崎 一幸</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/jS9lX" target="_blank">柴山 允瑠</a> <span class="jobTitle">准教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=zK0xR" alt="山口 義幸 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/zK0xR" target="_blank">山口 義幸</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 数理ファイナンス講座 </h4> 
+        </div> 
+       </section> 
+       <p><a href="#ist">知能情報学専攻</a> | <a href="#soc">社会情報学専攻</a> | <a href="#acs">複雑系科学専攻</a> | <a href="#amp">数理工学専攻</a> | <a href="#sys">システム科学専攻</a> | <a href="#cce">通信情報システム専攻</a></p> 
+       <section> 
+        <h3 class="h3-labsCat" id="sys">システム科学専攻</h3> 
+        <div class="labsBox"> 
+         <h4> 人間機械共生講座 機械システム制御分野 <a href="http://ctrl.sys.i.kyoto-u.ac.jp/home-ja/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/sys_01.html" target="_blank">研究紹介</a></span><a href="/introduction/sys_01.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=nE6iT" alt="杉江 俊治 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/nE6iT" target="_blank">杉江 俊治</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/vA2bJ" target="_blank">東 俊一</a> <span class="jobTitle">准教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=gE8dX" alt="丸田 一郎 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/gE8dX" target="_blank">丸田 一郎</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 人間機械共生講座 ヒューマンシステム論分野 <a href="http://human.sys.i.kyoto-u.ac.jp/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a></h4> 
+         <ul> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=hV0bI" alt="加納 学 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/hV0bI" target="_blank">加納 学</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=iJ3xO" alt="西原 修 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/iJ3xO" target="_blank">西原 修</a> <span class="jobTitle">准教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=qK4nW" alt="藤原 幸一 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/qK4nW" target="_blank">藤原 幸一</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 人間機械共生講座 統合動的システム論分野 <a href="http://www.ids.sys.i.kyoto-u.ac.jp" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/sys_03.html" target="_blank">研究紹介</a></span><a href="/introduction/sys_03.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=hY2eU" alt="大塚 敏之 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/hY2eU" target="_blank">大塚 敏之</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=nZ6eP" alt="平岡 敏洋 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/nZ6eP" target="_blank">平岡 敏洋</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> システム構成論講座 適応システム論分野 <a href="http://www-adsys.sys.i.kyoto-u.ac.jp/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/sys_04.html" target="_blank">研究紹介</a></span><a href="/introduction/sys_04.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=gK5hO" alt="田中 利幸 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/gK5hO" target="_blank">田中 利幸</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=wD8xB" alt="大関 真之 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/wD8xB" target="_blank">大関 真之</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> システム構成論講座 数理システム論分野 <a href="http://www.msys.sys.i.kyoto-u.ac.jp/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/sys_05.html" target="_blank">研究紹介</a></span><a href="/introduction/sys_05.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=eE2vS" alt="林 和則 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/eE2vS" target="_blank">林 和則</a> <span class="jobTitle">准教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=pA8fW" alt="金子 めぐみ " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/pA8fW" target="_blank">金子 めぐみ</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> システム情報論講座 情報システム分野 <a href="http://infosys.sys.i.kyoto-u.ac.jp/tk/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/sys_06.html" target="_blank">研究紹介</a></span><a href="/introduction/sys_06.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=rI9vP" alt="高橋 豊 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/rI9vP" target="_blank">高橋 豊</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=dB4aB" alt="増山 博之 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/dB4aB" target="_blank">増山 博之</a> <span class="jobTitle">准教授</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> システム情報論講座 論理生命学分野 <a href="http://ishiilab.jp/kyoto/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/sys_07.html" target="_blank">研究紹介</a></span><a href="/introduction/sys_07.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=mZ9yD" alt="石井 信 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/mZ9yD" target="_blank">石井 信</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/sH1aX" target="_blank">大羽 成征</a> <span class="jobTitle">講師</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=xC6xQ" alt="前田 新一 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/xC6xQ" target="_blank">前田 新一</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> システム構成論講座 医用工学分野 <a href="http://www.bme.sys.i.kyoto-u.ac.jp/index.html" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/sys_08.html" target="_blank">研究紹介</a></span><a href="/introduction/sys_08.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=jQ6bA" alt="松田 哲也 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/jQ6bA" target="_blank">松田 哲也</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=vR9sQ" alt="中尾 恵 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/vR9sQ" target="_blank">中尾 恵</a> <span class="jobTitle">准教授</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/rE7tQ" target="_blank">今井 宏彦</a> <span class="jobTitle">特定助教</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/bK0dA" target="_blank">HOLDEN, Mark</a> <span class="jobTitle">特定助教</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=uO9eG" alt="山本 詩子 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/uO9eG" target="_blank">山本 詩子</a> <span class="jobTitle">特定助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 応用情報学講座 スーパーコンピューティング分野 <a href="http://www.ais.sys.i.kyoto-u.ac.jp/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/sys_09.html" target="_blank">研究紹介</a></span><a href="/introduction/sys_09.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=eD6yB" alt="中島 浩 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/eD6yB" target="_blank">中島 浩</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=lY7cL" alt="深沢 圭一郎 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/lY7cL" target="_blank">深沢 圭一郎</a> <span class="jobTitle">准教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=oR2lM" alt="平石 拓 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/oR2lM" target="_blank">平石 拓</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 応用情報学講座 計算神経科学連携ユニット ［連携］ <a href="http://www.sys.i.kyoto-u.ac.jp/lab/renkei_unit.html" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a></h4> 
+         <ul> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p> 川人 光男 <span class="jobTitle">教授</span><br><span class="affiliation">（ATR）</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p>深井 朋樹 <span class="jobTitle">教授</span><br><span class="affiliation">（理化学研究所）</span></p></li> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p>銅谷 賢治 <span class="jobTitle">教授</span><br><span class="affiliation">（OIST）</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 応用情報学講座 計算知能システム連携ユニット ［連携］ <span class="btn"><a href="http://www.sys.i.kyoto-u.ac.jp/lab/renkei_unit.html" target="_blank">研究紹介</a></span><a href="http://www.sys.i.kyoto-u.ac.jp/lab/renkei_unit.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/no-photo.jpg" alt="写真準備中" style="width:100%;"><p>上田 修功 <span class="jobTitle">教授</span><br><span class="affiliation">（NTT）</span></p></li> 
+         </ul> 
+        </div> 
+       </section> 
+       <p><a href="#ist">知能情報学専攻</a> | <a href="#soc">社会情報学専攻</a> | <a href="#acs">複雑系科学専攻</a> | <a href="#amp">数理工学専攻</a> | <a href="#sys">システム科学専攻</a> | <a href="#cce">通信情報システム専攻</a></p> 
+       <section> 
+        <h3 class="h3-labsCat" id="cce">通信情報システム専攻</h3> 
+        <div class="labsBox"> 
+         <h4> コンピュータ工学講座 論理回路分野 <a href="http://www.lab2.kuis.kyoto-u.ac.jp/index-j.html" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/cce_01.html" target="_blank">研究紹介</a></span><a href="/introduction/cce_01.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=wE5eM" alt="Francois Le Gall " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/wE5eM" target="_blank">Francois Le Gall</a> <span class="jobTitle">特定准教授</span></p></li> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=yK5cF" alt="玉置 卓 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/yK5cF" target="_blank">玉置 卓</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> コンピュータ工学講座 計算機アーキテクチャ分野 <a href="http://www.lab3.kuis.kyoto-u.ac.jp/index.html.ja" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/cce_02.html" target="_blank">研究紹介</a></span><a href="/introduction/cce_02.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=nB9zS" alt="é木 直史 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/nB9zS" target="_blank">é木 直史</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=hU7zC" alt="高木 一義 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/hU7zC" target="_blank">高木 一義</a> <span class="jobTitle">准教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=pC7iV" alt="高瀬 英希 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/pC7iV" target="_blank">高瀬 英希</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> コンピュータ工学講座 計算機ソフトウェア分野 <a href="http://www.fos.kuis.kyoto-u.ac.jp/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/cce_03.html" target="_blank">研究紹介</a></span><a href="/introduction/cce_03.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=nH1sT" alt="五十嵐 淳 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/nH1sT" target="_blank">五十嵐 淳</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=xC2kG" alt="末永 幸平 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/xC2kG" target="_blank">末永 幸平</a> <span class="jobTitle">准教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=cJ7kN" alt="馬谷 誠二 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/cJ7kN" target="_blank">馬谷 誠二</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 通信システム工学講座 ディジタル通信分野 <a href="http://www.dco.cce.i.kyoto-u.ac.jp/ja/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/cce_04.html" target="_blank">研究紹介</a></span><a href="/introduction/cce_04.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=tP7cE" alt="原田 博司 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/tP7cE" target="_blank">原田 博司</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=gD1iR" alt="村田 英一 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/gD1iR" target="_blank">村田 英一</a> <span class="jobTitle">准教授</span></p></li> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=iX0hQ" alt="松村 武 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/iX0hQ" target="_blank">松村 武</a> <span class="jobTitle">特定准教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=kD0lK" alt="水谷 圭一 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/kD0lK" target="_blank">水谷 圭一</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 通信システム工学講座 伝送メディア分野 <a href="http://www.imc.cce.i.kyoto-u.ac.jp/ja/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/cce_05.html" target="_blank">研究紹介</a></span><a href="/introduction/cce_05.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=iZ7xC" alt="守倉 正博 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/iZ7xC" target="_blank">守倉 正博</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=bJ0sO" alt="山本 高至 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/bJ0sO" target="_blank">山本 高至</a> <span class="jobTitle">准教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=tB1oN" alt="西尾 理志 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/tB1oN" target="_blank">西尾 理志</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 通信システム工学講座 知的通信網分野 <a href="http://cube.kuee.kyoto-u.ac.jp/index.html" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/cce_06.html" target="_blank">研究紹介</a></span><a href="/introduction/cce_06.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=uA1dL" alt="新熊 亮一 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/uA1dL" target="_blank">新熊 亮一</a> <span class="jobTitle">准教授</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 集積システム工学講座 情報回路方式分野 <a href="http://www.pass.cce.i.kyoto-u.ac.jp/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/cce_07.html" target="_blank">研究紹介</a></span><a href="/introduction/cce_07.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=jN1yE" alt="佐藤 高史 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/jN1yE" target="_blank">佐藤 高史</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=rB5bK" alt="廣本 正之 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/rB5bK" target="_blank">廣本 正之</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 集積システム工学講座 大規模集積回路分野 <a href="http://www.tamaru.kuee.kyoto-u.ac.jp/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/cce_08.html" target="_blank">研究紹介</a></span><a href="/introduction/cce_08.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=lY1gW" alt="小野寺 秀俊 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/lY1gW" target="_blank">小野寺 秀俊</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=rL4nC" alt="石原 亨 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/rL4nC" target="_blank">石原 亨</a> <span class="jobTitle">准教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=nE1wH" alt="土谷 亮 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/nE1wH" target="_blank">土谷 亮</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 集積システム工学講座 超高速信号処理分野 <a href="http://www-lab26.kuee.kyoto-u.ac.jp/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/cce_09.html" target="_blank">研究紹介</a></span><a href="/introduction/cce_09.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=uK4qK" alt="佐藤 亨 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/uK4qK" target="_blank">佐藤 亨</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="https://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=fC5oG" alt="橋本 大志 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/fC5oG" target="_blank">橋本 大志</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 地球電波工学講座 リモートセンシング分野 <a href="http://www2.rish.kyoto-u.ac.jp/labs/yamamoto-lab/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/cce_10.html" target="_blank">研究紹介</a></span><a href="/introduction/cce_10.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=nI3uI" alt="山本 衛 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/nI3uI" target="_blank">山本 衛</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=eI6xS" alt="橋口 浩之 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/eI6xS" target="_blank">橋口 浩之</a> <span class="jobTitle">准教授</span></p></li> 
+         </ul> 
+        </div> 
+        <div class="labsBox"> 
+         <h4> 地球電波工学講座 地球大気計測分野 <a href="http://www.rish.kyoto-u.ac.jp/lasd/" target="_blank"><span class="icoWebsiteImg">研究室HP</span></a><span class="btn"><a href="/introduction/cce_11.html" target="_blank">研究紹介</a></span><a href="/introduction/cce_11.html" target="_blank"> </a></h4> 
+         <ul> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=yU9gD" alt="津田 敏隆 " style="width:100%;"><p><a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/yU9gD" target="_blank">津田 敏隆</a> <span class="jobTitle">教授</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=hZ2iE" alt="古本 淳一 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/hZ2iE" target="_blank">古本 淳一</a> <span class="jobTitle">助教</span></p></li> 
+          <li><img src="http://kyouindb.iimc.kyoto-u.ac.jp/cgi-bin/picture.cgi?sid=iZ3zC" alt="矢吹 正教 " style="width:100%;"><p><a href="http://kyouindb.iimc.kyoto-u.ac.jp/j/iZ3zC" target="_blank">矢吹 正教</a> <span class="jobTitle">助教</span></p></li> 
+         </ul> 
+        </div> 
+       </section> 
+      </article>
+      <!-- /#main_end --> 
+      <div id="side" class="introduction"> 
+       <ul id="menu-side-menu" class="sideMenu">
+        <li id="menu-item-888" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-888"><a href="/">HOME</a></li> 
+        <li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-45"><a href="/introduction.html/">情報学研究科の紹介</a> 
+         <ul class="sub-menu"> 
+          <li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a href="/introduction/informatics.html/">情報学とは</a></li> 
+          <li id="menu-item-2130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2130"><a href="/introduction/message.html/">研究科長挨拶</a></li> 
+          <li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="/introduction/admission.html/">教育研究上の目的</a></li> 
+          <li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-49"><a href="/introduction/labs.html/">研究室・教員一覧</a></li> 
+          <li id="menu-item-2580" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2580"><a href="/introduction/sympo.html/">公開講座・シンポジウム・公聴会</a></li> 
+          <li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a href="/introduction/grad_message.html/">卒業生の声</a></li> 
+         </ul> </li> 
+        <li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-54"><a href="/admission.html/">入試情報</a> 
+         <ul class="sub-menu"> 
+          <li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55"><a href="/admission/policy.html/">受入方針</a></li> 
+          <li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a href="/admission/guide.html/">入試案内</a></li> 
+          <li id="menu-item-58" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a href="/admission/application.html/">募集要項</a></li> 
+          <li id="menu-item-59" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59"><a href="/admission/pass.html/">出願状況・合格発表</a></li> 
+          <li id="menu-item-60" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60"><a href="/admission/inquiry.html/">お問合せ先</a></li> 
+         </ul> </li> 
+        <li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-61"><a href="/curriculum.html/">カリキュラム</a> 
+         <ul class="sub-menu"> 
+          <li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62"><a href="/curriculum/policy.html/">教育方針</a></li> 
+          <li id="menu-item-2588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://ocw.kyoto-u.ac.jp/syllabuses/269">シラバス</a></li> 
+         </ul> </li> 
+        <li id="menu-item-890" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-890"><a href="/archive.html/">研究科データ</a> 
+         <ul class="sub-menu"> 
+          <li id="menu-item-895" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-895"><a href="/archive/public.html/">広報・出版物</a></li> 
+          <li id="menu-item-889" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-889"><a href="/archive.html#tenken_hyouka">点検評価報告書</a></li> 
+          <li id="menu-item-891" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-891"><a href="/archive/awards.html/">受賞・栄誉等</a></li> 
+         </ul> </li> 
+        <li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-64"><a href="/organization.html/">研究科の組織</a> 
+         <ul class="sub-menu"> 
+          <li id="menu-item-897" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-897"><a href="http://www.ist.i.kyoto-u.ac.jp/">知能情報学専攻</a></li> 
+          <li id="menu-item-898" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-898"><a href="http://www.soc.i.kyoto-u.ac.jp/">社会情報学専攻</a></li> 
+          <li id="menu-item-899" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-899"><a href="http://www.acs.i.kyoto-u.ac.jp/">複雑系科学専攻</a></li> 
+          <li id="menu-item-900" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-900"><a href="http://www.amp.i.kyoto-u.ac.jp/">数理工学専攻</a></li> 
+          <li id="menu-item-901" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-901"><a href="http://www.sys.i.kyoto-u.ac.jp/">システム科学専攻</a></li> 
+          <li id="menu-item-902" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-902"><a href="http://www.cce.i.kyoto-u.ac.jp/">通信情報システム専攻</a></li> 
+          <li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="/organization/visiting.html/">外国人客員教員一覧</a></li> 
+         </ul> </li> 
+        <li id="menu-item-903" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-903"><a href="http://lib.i.kyoto-u.ac.jp/">情報学研究科図書室</a></li> 
+        <li id="menu-item-904" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-904"><a href="http://www.alumni.i.kyoto-u.ac.jp/">情報学研究科同窓会</a></li> 
+       </ul> 
+       <div class="menu_ind"> 
+        <ul class="imgTxtbnrList"> 
+         <li><a href="http://ict-nw.i.kyoto-u.ac.jp/" target="_blank"><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/btn-ict-nw.gif" alt="京都大学ICT連携推進ネットワーク"></a></li> 
+        </ul> 
+        <ul class="imgbnrList"> 
+         <li><a href="http://www.g30.i.kyoto-u.ac.jp/" target="_blank"><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/g30-banner_ja.jpg" alt="G30" width="200" height="60" border="0"></a></li> 
+         <li><a href="http://www.iedu.i.kyoto-u.ac.jp/" target="_blank"><img src="/wp-content/themes/i_kyoto-u_ac_jp/images/iedu-banner.jpg" alt="IEDU" width="200" height="64" border="0"></a></li> 
+        </ul> 
+       </div>
+       <!--//#menu_ind_end --> 
+       <dl class="info"> 
+        <dt>
+         <strong>京都大学　大学院情報学研究科</strong>
+        </dt> 
+        <dd>
+         〒606-8501
+         <br>京都市左京区吉田本町36-1
+         <br>
+        </dd> 
+        <dd>
+         <strong>問合せ先：</strong>
+         <img src="/wp-content/themes/i_kyoto-u_ac_jp/images/txt_ma.gif" alt="" width="123" height="12" align="middle">
+        </dd> 
+       </dl> 
+      </div>
+      <!-- //#side_end --> 
+      <footer> 
+       <div class="copyright">
+        <p>Copyright 2009 Graduate School of Informatics, Kyoto University.</p>
+       </div> 
+      </footer> 
+     </div>
+     <!-- //#wrapperIn2 --> 
+    </div>
+    <!-- //#wrapperIn --> 
+   </div>
+   <!-- //#wrapper --> 
+  </div> 
+  <div class="sb-slidebar sb-right"> 
+   <div class="lang"> 
+    <ul> 
+     <li class="icl-ja"><a href="/" class="lang_sel_sel">日本語</a></li> 
+     <li class="icl-en"><a href="/en/" class="lang_sel_other">English</a></li> 
+     <li class="icl-sc"><a href="/sc/" class="lang_sel_other">简体中文</a></li> 
+     <li class="icl-tc"><a href="/tc/" class="lang_sel_other">繁體中文 </a></li> 
+     <li class="icl-ko"><a href="/ko/" class="lang_sel_other">한국어</a></li> 
+    </ul> 
+   </div>
+   <!-- /.lang --> 
+   <ul id="menu-sp-menu02" class="menu02">
+    <li id="menu-item-1090" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1090"><a href="/school/">学生教職員（学内限定）</a></li> 
+    <li id="menu-item-2575" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2575"><a href="/certificate.html/">各種証明書の発行について</a></li> 
+    <li id="menu-item-2574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="/access.html/">アクセス</a></li> 
+   </ul> 
+   <ul id="menu-sp-menu03" class="menu03">
+    <li id="menu-item-1094" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-1094"><a href="/introduction.html/">情報学研究科の紹介</a></li> 
+    <li id="menu-item-1095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1095"><a href="/admission.html/">入試情報</a></li> 
+    <li id="menu-item-1096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1096"><a href="/curriculum.html/">カリキュラム</a></li> 
+    <li id="menu-item-1097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1097"><a href="/archive.html/">研究科データ</a></li> 
+    <li id="menu-item-1098" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1098"><a href="/organization.html/">研究科の組織</a></li> 
+    <li id="menu-item-1099" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1099"><a href="http://lib.i.kyoto-u.ac.jp/">情報学研究科図書室</a></li> 
+    <li id="menu-item-1100" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1100"><a href="http://www.alumni.i.kyoto-u.ac.jp/">情報学研究科同窓会</a></li> 
+   </ul>
+  </div> 
+  <!-- Slidebars --> 
+  <!-- jQuery --> 
+  <script>
+$(window).on("load resize", function(){
+		   var windowWidth = $(window).width();
+		   var reWidth =584; //CSSより15px下げる
+		   
+		   if( reWidth<=windowWidth ){
+
+		       $("#side ul.sideMenu > li:has('ul') > a").replaceWith(function() {
+  $(this).replaceWith("<span>"+$(this).text()+"</span>")
+});
+}
+	});
+		</script> 
+  <!-- Slidebars --> 
+  <script src="/wp-content/themes/i_kyoto-u_ac_jp/js/slidebars.js"></script> 
+  <script>
+		(function($) {
+					$(document).ready(function() {
+											$.slidebars();
+														});
+															 }) (jQuery);
+															    </script> 
+  <link href="/wp-content/themes/i_kyoto-u_ac_jp/css/rhinofader.css" rel="stylesheet" type="text/css"> 
+  <script type="text/javascript" src="/wp-content/themes/i_kyoto-u_ac_jp/js/rhinofader.min.js"></script> 
+  <script type="text/javascript">
+  $('#slideshow').rhinofader({
+	autoPlay: true,
+		  showControls: 'always',
+		  		effectTime: 1000,
+					    showTime: 3000
+					    });
+</script> 
+  <script type="text/javascript" src="/wp-content/themes/i_kyoto-u_ac_jp/js/jquery.matchHeight-min.js"></script> 
+  <script type="text/javascript">
+(function($) {
+$(window).on("load resize", function(){
+
+		   $('#main .labsBox ul li').matchHeight();	
+});}) (jQuery);
+</script> 
+  <script type="text/javascript" src="/wp-includes/js/wp-embed.min.js?ver=4.7"></script> 
+  <script type="text/javascript">
+/* <![CDATA[ */
+var icl_vars = {"current_language":"ja","icl_home":"http:\/\/www.i.kyoto-u.ac.jp\/","ajax_url":"http:\/\/www.i.kyoto-u.ac.jp\/wp-admin\/admin-ajax.php","url_type":"1"};
+/* ]]> */
+</script> 
+  <script type="text/javascript" src="/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js?ver=4.7"></script>  
+ </body>
+</html>
